@@ -1,4 +1,4 @@
-# SQL-challenge
+# SQL-Staff-Analysis
 
 I performed data modeling, engineering, and analysis using 
 files containing information about employees of a corporation from the 1980s and 1990s. 
